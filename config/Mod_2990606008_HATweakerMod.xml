@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="HeadApparelTweaker.HATweakerSetting">
+		<WithHair />
+		<WithBeard />
+		<HATData>
+			<Apparel_CowboyHat>
+				<NoHair>True</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_CowboyHat>
+			<Apparel_BowlerHat>
+				<NoHair>True</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_BowlerHat>
+			<Apparel_TribalHeaddress>
+				<NoHair>True</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_TribalHeaddress>
+			<Apparel_Tuque>
+				<NoHair>True</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_Tuque>
+			<Apparel_WarMask>
+				<NoHair>False</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_WarMask>
+			<Apparel_WarVeil>
+				<NoHair>False</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_WarVeil>
+			<Apparel_SimpleHelmet>
+				<NoHair>True</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_SimpleHelmet>
+			<Apparel_AdvancedHelmet>
+				<NoHair>True</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_AdvancedHelmet>
+			<Apparel_PowerArmorHelmet>
+				<NoHair>True</NoHair>
+				<NoBeard>True</NoBeard>
+			</Apparel_PowerArmorHelmet>
+			<Apparel_ArmorHelmetRecon>
+				<NoHair>True</NoHair>
+				<NoBeard>True</NoBeard>
+			</Apparel_ArmorHelmetRecon>
+			<Apparel_PsychicFoilHelmet>
+				<NoHair>True</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_PsychicFoilHelmet>
+			<Apparel_HatHood>
+				<NoHair>True</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_HatHood>
+			<Apparel_ClothMask>
+				<NoHair>False</NoHair>
+				<NoBeard>False</NoBeard>
+			</Apparel_ClothMask>
+		</HATData>
+	</ModSettings>
+</SettingsBlock>
