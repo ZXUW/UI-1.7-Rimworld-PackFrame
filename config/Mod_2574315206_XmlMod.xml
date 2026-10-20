@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="XmlExtensions.XmlModBaseSettings">
+		<dataDict>
+			<keys>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveAlphaImplantsTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveAllBeards</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveFleshTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveAllTattoos</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveHeavyBrowTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveUncontrollableTentacleTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveEyeBionicTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveEyeGeneTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveBlindEyeTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveGrayEyeTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveGhoulTextureAndHair</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveGhoulBodyColor</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveGhoulImplantTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveFacialRidgesTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveForcedHeadTypeForGene</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveForcedHeadTypeForCreepJoiner</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveGhoulImplantTextureA</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveIntegratedImplantsTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveMouthTusksTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveNoHairGeneForYttakin</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveNoseTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveTortleShellTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveWoundTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveBandageTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveTailTexture</li>
+				<li>buyue.SimpleTextureTweaks;BuyueRemoveVREITexture</li>
+			</keys>
+			<values>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+			</values>
+		</dataDict>
+		<PinnedMods />
+	</ModSettings>
+</SettingsBlock>
