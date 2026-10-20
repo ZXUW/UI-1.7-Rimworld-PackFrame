@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DreamsDamageIndicators.DreamsDamageIndicatorsSettings">
+		<showGameIntroTips>False</showGameIntroTips>
+		<digitPixelSize>24</digitPixelSize>
+		<scaleWithZoom>False</scaleWithZoom>
+		<fontOutlineWidth>1</fontOutlineWidth>
+		<trimWrongBorder>True</trimWrongBorder>
+		<useCustomFont>False</useCustomFont>
+		<textOpacity>1</textOpacity>
+		<colorMode>2</colorMode>
+		<colorMaxThreshold>100</colorMaxThreshold>
+		<useExponentialColors>False</useExponentialColors>
+		<whiteModeColor>RGBA(1.000, 1.000, 1.000, 1.000)</whiteModeColor>
+		<enableFriendlyColor>False</enableFriendlyColor>
+		<friendlyColor>RGBA(0.300, 0.900, 0.300, 1.000)</friendlyColor>
+		<valueWhiteColor>RGBA(1.000, 1.000, 1.000, 1.000)</valueWhiteColor>
+		<valueYellowColor>RGBA(1.000, 0.922, 0.016, 1.000)</valueYellowColor>
+		<valueOrangeColor>RGBA(1.000, 0.500, 0.000, 1.000)</valueOrangeColor>
+		<valueRedColor>RGBA(1.000, 0.000, 0.000, 1.000)</valueRedColor>
+		<valueLightPurpleColor>RGBA(0.700, 0.400, 1.000, 1.000)</valueLightPurpleColor>
+		<valueLightBlueColor>RGBA(0.600, 0.900, 1.000, 1.000)</valueLightBlueColor>
+		<valueCyanColor>RGBA(0.000, 1.000, 1.000, 1.000)</valueCyanColor>
+		<sharpCutColor>RGBA(1.000, 1.000, 1.000, 1.000)</sharpCutColor>
+		<sharpPierceColor>RGBA(0.700, 0.850, 1.000, 1.000)</sharpPierceColor>
+		<bulletColor>RGBA(0.150, 0.250, 0.600, 1.000)</bulletColor>
+		<bluntColor>RGBA(0.550, 0.400, 0.300, 1.000)</bluntColor>
+		<heatColor>RGBA(1.000, 0.500, 0.000, 1.000)</heatColor>
+		<coldColor>RGBA(0.300, 0.600, 1.000, 1.000)</coldColor>
+		<explosiveColor>RGBA(1.000, 0.300, 0.200, 1.000)</explosiveColor>
+		<toxicColor>RGBA(0.300, 0.900, 0.300, 1.000)</toxicColor>
+		<stunColor>RGBA(1.000, 0.900, 0.200, 1.000)</stunColor>
+		<empColor>RGBA(0.000, 1.000, 1.000, 1.000)</empColor>
+		<otherColor>RGBA(1.000, 1.000, 1.000, 1.000)</otherColor>
+		<basePopScale>2.5</basePopScale>
+		<popScaleIncrementPerHit>0.100000001</popScaleIncrementPerHit>
+		<maxPopScale>10</maxPopScale>
+		<popHoldSeconds>0</popHoldSeconds>
+		<popShrinkEndSeconds>0.349999994</popShrinkEndSeconds>
+		<moveHitNumberToFront>False</moveHitNumberToFront>
+		<repeatWindowSeconds>0.5</repeatWindowSeconds>
+		<fadeOutSeconds>1</fadeOutSeconds>
+		<followHeight>2</followHeight>
+		<driftDistancePixels>20</driftDistancePixels>
+		<maxRandomOffsetPixels>50</maxRandomOffsetPixels>
+		<randomOffsetOnSpawn>True</randomOffsetOnSpawn>
+		<spawnRandomOffsetScale>0.5</spawnRandomOffsetScale>
+		<enablePerHitFlyingNumber>False</enablePerHitFlyingNumber>
+		<useFlyingNumberColor>False</useFlyingNumberColor>
+		<flyingNumberColor>RGBA(1.000, 1.000, 1.000, 1.000)</flyingNumberColor>
+		<showPlayerPawns>True</showPlayerPawns>
+		<showNonPlayerPawns>True</showNonPlayerPawns>
+		<showBuildings>True</showBuildings>
+		<showOther>False</showOther>
+		<showMiningDamage>False</showMiningDamage>
+		<showShieldBreakText>True</showShieldBreakText>
+		<showShieldEnergyLost>True</showShieldEnergyLost>
+		<showMissZero>True</showMissZero>
+		<showDodgeZero>True</showDodgeZero>
+	</ModSettings>
+</SettingsBlock>
