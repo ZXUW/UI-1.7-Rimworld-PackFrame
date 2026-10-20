@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>BaseUIandBeauty Tweak</name>
+  <author>ZXUW</author>
+  <packageId>baseuiandbeauty.tweak</packageId>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>BaseUIandBeauty 整合包的平衡调整与 Bug 修复补丁。</description>
+</ModMetaData>
