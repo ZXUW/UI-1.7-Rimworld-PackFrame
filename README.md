@@ -7,6 +7,6 @@ PackFrame GitHub modpack repository.
 ```text
 pack.json          modpack manifest
 config/            RimWorld mod config
-mods/              local mods
+mods.zip           local mods (large archives use a GitHub Release asset)
 images/            cover images
 ```

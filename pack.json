@@ -1,4 +1,7 @@
 {
+  "revision": 1792601705777,
+  "version": "2026.10.21.165505",
+  "changelog": "UI\u002B\u7F8E\u5316 [1.7]",
   "schemaVersion": 1,
   "id": "ui-1-7",
   "name": "UI\u002B\u7F8E\u5316 [1.7]",
@@ -8,8 +11,11 @@
   "gameVersion": "1.7.4982 rev1280",
   "config": "config",
   "configBaseUrl": null,
-  "workshopCollectionId": "3823317823",
-  "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823317823",
+  "workshopCollectionId": "3824101060",
+  "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3824101060",
+  "repo": "ZXUW/UI-1.7-Rimworld-PackFrame",
+  "ref": "main",
+  "modsArchive": "mods.zip",
   "configFiles": [
     "ModsConfig.xml",
     "Mod_1446523594_DubsMintMenusMod.xml",
@@ -113,7 +119,7 @@
     "ih.clean.textures",
     "savestoragesettings.kv.rw.fishtmp",
     "7h0m4s.rimworldreadablenumbers",
-    "Yuki.FPSAndTPS",
+    "yuki.fpsandtps",
     "baseuiandbeauty.tweak"
   ]
 }

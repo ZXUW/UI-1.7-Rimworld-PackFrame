@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
   <version>1.7.4982 rev1280</version>
   <activeMods>
@@ -83,7 +83,7 @@
     <li>ih.clean.textures</li>
     <li>savestoragesettings.kv.rw.fishtmp</li>
     <li>7h0m4s.rimworldreadablenumbers</li>
-    <li>Yuki.FPSAndTPS</li>
+    <li>yuki.fpsandtps</li>
     <li>baseuiandbeauty.tweak</li>
   </activeMods>
   <knownExpansions>
